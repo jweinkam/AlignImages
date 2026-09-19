@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TIFF", "TIFF.vcxproj", "{02CD2632-714F-45E7-A1DE-52336B3F190E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug MT DLL|Win32 = Debug MT DLL|Win32
+		Debug MT DLL|x64 = Debug MT DLL|x64
+		Debug MT|Win32 = Debug MT|Win32
+		Debug MT|x64 = Debug MT|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release MT DLL|Win32 = Release MT DLL|Win32
+		Release MT DLL|x64 = Release MT DLL|x64
+		Release MT|Win32 = Release MT|Win32
+		Release MT|x64 = Release MT|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT DLL|Win32.ActiveCfg = Debug MT DLL|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT DLL|Win32.Build.0 = Debug MT DLL|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT DLL|x64.ActiveCfg = Debug MT DLL|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT DLL|x64.Build.0 = Debug MT DLL|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT|Win32.ActiveCfg = Debug MT|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT|Win32.Build.0 = Debug MT|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT|x64.ActiveCfg = Debug MT|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug MT|x64.Build.0 = Debug MT|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug|Win32.Build.0 = Debug|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug|x64.ActiveCfg = Debug|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Debug|x64.Build.0 = Debug|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT DLL|Win32.ActiveCfg = Release MT DLL|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT DLL|Win32.Build.0 = Release MT DLL|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT DLL|x64.ActiveCfg = Release MT DLL|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT DLL|x64.Build.0 = Release MT DLL|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT|Win32.ActiveCfg = Release MT|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT|Win32.Build.0 = Release MT|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT|x64.ActiveCfg = Release MT|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release MT|x64.Build.0 = Release MT|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release|Win32.ActiveCfg = Release|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release|Win32.Build.0 = Release|Win32
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release|x64.ActiveCfg = Release|x64
+		{02CD2632-714F-45E7-A1DE-52336B3F190E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9599E4E5-CBD4-4BFE-84EF-A8F33607789B}
+	EndGlobalSection
+EndGlobal
